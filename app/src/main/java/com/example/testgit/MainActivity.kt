@@ -9,5 +9,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //rre
         //ewfwfewf
+        ///rr22r2r
+        //rwerewrewrw
+        //4455
     }
 }
