@@ -13,5 +13,6 @@ class MainActivity : AppCompatActivity() {
         //rwerewrewrw
         //4455
         //1111
+        //000101001
     }
 }
